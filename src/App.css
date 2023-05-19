@@ -7,3 +7,14 @@
     width: 100vw;
     height: 100vh;
   }
+
+  .heading {
+    color: #333;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 36px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: bold;
+  }
+  
