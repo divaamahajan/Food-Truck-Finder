@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Food-Truck-Finder/static/css/main.51a8c7be.css",
+    "main.js": "/Food-Truck-Finder/static/js/main.7274aaa2.js",
+    "static/js/559.93bce9a5.chunk.js": "/Food-Truck-Finder/static/js/559.93bce9a5.chunk.js",
+    "index.html": "/Food-Truck-Finder/index.html",
+    "main.51a8c7be.css.map": "/Food-Truck-Finder/static/css/main.51a8c7be.css.map",
+    "main.7274aaa2.js.map": "/Food-Truck-Finder/static/js/main.7274aaa2.js.map",
+    "559.93bce9a5.chunk.js.map": "/Food-Truck-Finder/static/js/559.93bce9a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51a8c7be.css",
+    "static/js/main.7274aaa2.js"
+  ]
+}
